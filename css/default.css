@@ -33,6 +33,7 @@ a:hover {
 	text-align: center;
 	width: 100px;
 	margin: auto auto 20px auto;
+	margin-top: -10px;
 }
 
 /* ------------------------------------- /
@@ -42,16 +43,15 @@ a:hover {
 	background-color: white;
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
-	border-radius: 50%;
-	width: 100px;
-	height: 100px;
-	padding-top: 37px;
+	width: 250px;
+	height: 130px;
+	padding-top: 33px;
+	margin-left: -60px;
 	font-size: 26px;
 	color: #7E7E7E;
 }
 .logo h1 img {
-	width: 100px;
-	border-radius: 50%;
+	width: 150px;
 }
 
 /* ------------------------------------- /

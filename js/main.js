@@ -50,6 +50,7 @@ window.onload = function() {
 	//                process video 
 	/**********************************************/
 	// turn of all videos
+	/*
 	videos = document.getElementsByTagName("video");
 	for(var i = 1; i < videos.length; i++) {
 		videos[i].volume = 0;
@@ -118,5 +119,6 @@ window.onload = function() {
 	$('#carousel-generic').on("slid.bs.carousel", function(e){
 		currentItem.children[0].pause();
 	});
+	*/
 }
 var debug
